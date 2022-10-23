@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: db87ec7003db2a74b900a344ef17ae49
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Thermometer
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b130180e03c10f14c9ebdd7b1f4ecd28, type: 3}
+  - {fileID: 12800000, guid: 7612543d663d066459a48c96cbc4bfef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

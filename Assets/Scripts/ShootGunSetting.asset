@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: ShootGunSetting
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponSetting
+  WeaponType: 1
+  DefaultDamage: 33
+  DefaultDelay: 0.4
+  DefaultPoison: 0
+  ShootSound: {fileID: 8300000, guid: 947719fd38845824ba3638af9d8e4e54, type: 3}
+  HitEffect: {fileID: 424110277265014344, guid: 374f6596346b8be4c88ccbe44a44561d, type: 3}
+  MuzzleEffect: {fileID: 7045281731234926887, guid: 77f16a2a772bd2b4e8b32adf65416cf8, type: 3}
+  DamageMultiplier: 1.3
+  DelayMultiplier: 1.6
